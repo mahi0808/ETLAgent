@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,amount,status,discount
+1,101,2024-01-01,250.5,completed
+2,102,,300.0,pending
+3,103,2024-01-03,150.0,Completed
